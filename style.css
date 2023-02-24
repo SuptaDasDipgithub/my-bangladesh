@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* background-color: rgb(25, 212, 25); */
+  box-sizing: border-box; /*plz check*/
+}
+header {
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/bdnature.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
